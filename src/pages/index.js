@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-// import { Head } from 'next/document';
+// import { Head } from 'next/document'
 import Head from "next/head";
 
 import { ThemeProvider } from "styled-components";
